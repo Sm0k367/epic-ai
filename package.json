@@ -1,5 +1,5 @@
 {
-  "name": "epic-tech-ai-chat",
+  "name": "epic-ai",
   "private": true,
   "version": "0.1.0",
   "type": "module",
@@ -15,7 +15,7 @@
   },
   "devDependencies": {
     "@types/react": "^18.3.3",
-    "@types/react-dom": "^18.3.1",
+    "@types/react-dom": "^18.3.0",
     "@typescript-eslint/eslint-plugin": "^7.18.0",
     "@typescript-eslint/parser": "^7.18.0",
     "@vitejs/plugin-react": "^4.3.1",
